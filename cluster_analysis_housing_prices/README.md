@@ -1,6 +1,6 @@
 # xs_portfolio
 Finding the next Austin
-Cluster analysis of housing prices in US cities
+Cluster analysis of housing prices in US cities <br>
 xandersnyder@gmail.com
 
 Index of files & folders
