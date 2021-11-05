@@ -1,5 +1,6 @@
 # xs_portfolio
-Xander Snyder's data science portfolio
+Finding the next Austin
+Cluster analysis of housing prices in US cities
 xandersnyder@gmail.com
 
 Index of files & folders
